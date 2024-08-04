@@ -1,0 +1,197 @@
+body {
+    background-color: #FAEDCD;
+    color: #333;
+}
+
+#title {
+    background-color: #9fac75;
+}
+
+.title-image{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 15%;
+    border-radius: 10%;
+    margin-bottom: 4%;
+    border-style: dotted;
+    border-color: #F9EAE1;
+    border-width: 30%;
+
+}
+
+
+.first-name {
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #F9EAE1;
+    font-size: 6.0rem;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: -16%;
+}
+
+.last-name {
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #F9EAE1;
+    font-size: 6.0rem;
+    text-align: center;
+    margin-left: 40%;
+}
+
+.subtitle {
+    font-family: "Varela Round", sans-serif;
+    color: #F9EAE1;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 3%;
+    font-size: 1.2rem;
+    border-style: groove;
+}
+
+#about{
+    background-color: #ab855e;
+    padding: 2% 2%;
+    font-family: "Varela Round", sans-serif;
+    color: #F9EAE1;
+    font-size: 1.1rem;
+    line-height: 1.7;
+    border-radius: 30px;
+}
+
+.role{
+    font-family: "Varela Round", sans-serif;
+    color: #121211;
+    text-align: left;
+    margin-top: 1%;
+    font-style: italic;
+}
+
+.duration{
+    font-family: "Varela Round", sans-serif;
+    color: #121211;
+    text-align: left;
+    margin-top: -1%;
+    font-style: italic;
+}
+
+.description{
+    font-family: "Varela Round", sans-serif;
+    color: #121211;
+    text-align: left;
+
+}
+
+.website{
+    font-family: "Varela Round", sans-serif;
+    text-align: left;
+    font-style: underline;
+
+}
+
+footer {
+    color: #000000;
+}
+
+#work-slides{
+    text-align: center;
+    background-color: #CCD5AE;
+    margin-bottom: 30px;
+    margin-top: -30px;
+    border-radius: 45px;
+}
+
+#leadership-slides{
+    text-align: center;
+    background-color: #CCD5AE;
+    margin-bottom: 30px;
+    margin-top: -30px;
+    border-radius: 45px;
+}
+
+.carousel-item{
+    padding: 3%;
+}
+
+.work-image{
+    width: 60%;
+    border-radius: 20%;
+    margin: 10px;
+}
+
+.leadership-image{
+    width: 60%;
+    border-radius: 20%;
+    margin: 10px;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #232221;
+    font-family: "Varela Round", sans-serif;
+    text-align: center;
+}
+
+.nav-link:hover {
+    color: #D4A373
+}
+
+.nav-item{
+    text-align: center;
+    color: #232221;
+
+}
+
+.bg-light{
+    background-color: #9fac75;
+}
+
+.company{
+    font-family: "Varela Round", sans-serif;
+    color: #232321;
+    text-align: left;
+    font-size: 1.6rem;
+}
+
+.section-header{
+    font-family: "Courgette", cursive;
+    color: #ab855e;
+    font-size: 2.5rem;
+}
+
+#achievements{
+    background-color: #ab855e;
+    padding: 2% 2%;
+    font-family: "Varela Round", sans-serif;
+    color: #F9EAE1;
+    font-size: 1.1rem;
+    line-height: 1.7;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+#pricing{
+    font-family: "Varela Round", sans-serif;
+    text-align: center;
+}
+
+.project-title{
+    color: #F9EAE1;
+    font-family: "Varela Round", sans-serif;
+    padding: 3% 2%;
+
+}
+
+.card-header{
+    background-color: #ab855e;
+}
+
+.pricing-column{
+    border-radius: 200px;
+    margin-top: 10px;
+   
+}
+
+
